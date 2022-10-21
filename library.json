@@ -1,0 +1,24 @@
+{
+  "name": "avrDigitalPin",
+  "version": "1.0.0",
+  "description": "Example library for PlatformIO. Demonstrates avrDigitalPin class for avr platform.",
+  "keywords": "pin, digitalPin, avrDigitalPin",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/NormanDunbar/pioDigitalPin"
+  },
+  "authors":
+  [
+    {
+      "name": "Norman Dunbar",
+      "email": "norman@dunbar-it.co.uk",
+      "url": "http://www.dunbar-it.co.uk/contact-us/",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/NormanDunbar/pioDigitalPin",
+  "frameworks": "*",
+  "platforms": "atmelavr"
+}
